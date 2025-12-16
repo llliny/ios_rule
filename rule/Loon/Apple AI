@@ -1,6 +1,6 @@
 # NAME: Apple AI
 # AUTHOR: llliny
-# REPO: https://github.com/llliny/ios_rule/
+# REPO: https://github.com/llliny/ios_rule
 # UPDATED: 2025-12-16 19:35:35
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
