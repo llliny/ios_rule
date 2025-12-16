@@ -1,7 +1,7 @@
 # NAME: Siri
 # AUTHOR: llliny
 # REPO: https://github.com/llliny/ios_rule
-# UPDATED: 2025-12-16 19:35:35
+# UPDATED: 2025-12-16 20:30:00
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
