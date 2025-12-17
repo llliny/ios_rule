@@ -2,6 +2,7 @@
 # AUTHOR: llliny
 # REPO: https://github.com/llliny/ios_rule
 # UPDATED: 2025-12-16 20:30:00
+
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
