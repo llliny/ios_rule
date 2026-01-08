@@ -1,0 +1,19 @@
+# NAME: 抗 DNS 污染
+# AUTHOR: llliny
+# REPO: https://github.com/llliny/ios_rule
+# UPDATED: 2026-01-09 19:30:00
+
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-KEYWORD,whatsapp
