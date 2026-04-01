@@ -1,6 +1,8 @@
-# NAME: 中国联通Wi-Fi通话
-# AUTHOR: llliny
-# REPO: https://github.com/llliny/ios_rule
-# UPDATED: 2026-04-01 18:00:00
+#!name= 中国联通Wi-Fi通话
+#!desc= 解锁中国联通APP的Wi-Fi通话功能
+#!author= llliny
+#!homepage= https://github.com/llliny/ios_rule
+#!icon= https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Unlock.png
+#!date= 2026-04-01 18:00:00
 
 https://m.client.10010.com/edopinterface/officialWhite/checkOfficialWhitePhone response-body-replace-regex 0211 0000
