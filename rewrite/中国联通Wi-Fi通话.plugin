@@ -2,3 +2,5 @@
 # AUTHOR: llliny
 # REPO: https://github.com/llliny/ios_rule
 # UPDATED: 2026-04-01 18:00:00
+
+https://m.client.10010.com/edopinterface/officialWhite/checkOfficialWhitePhone response-body-replace-regex 0211 0000
